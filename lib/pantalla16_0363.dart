@@ -8,7 +8,7 @@ class Pantalla16_0363 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Pantalla16 Vega0400"),
+        title: const Text("Pantalla16 Gonzalez0363"),
         backgroundColor: const Color(0xff6d95ff),
       ),
       body: Center(
